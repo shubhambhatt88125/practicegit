@@ -1,5 +1,5 @@
-def mysum(a,b):
-    return a+b
+def mysum(a,b,c):
+    return a+b+c
 
 def mysub(a,b,c):
     return a-b-c
