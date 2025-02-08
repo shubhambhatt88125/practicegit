@@ -1,1 +1,1 @@
-## practice git commands
+## practice git commands for DS role at MSCD.
